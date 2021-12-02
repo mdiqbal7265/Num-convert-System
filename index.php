@@ -53,7 +53,7 @@
                     </select>
 
                     <label for="num">Number</label>
-                    <input type="text" placeholder="Type your number.." id="num" name="number">
+                    <input type="text" placeholder="Type a number.." id="num" name="number">
 
                     <input type="hidden" name="action" id="action" value="1">
 
